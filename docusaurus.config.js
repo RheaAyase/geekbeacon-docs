@@ -21,6 +21,12 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/gigs/gigs_intro',
+          activeBasePath: 'docs/gigs',
+          label: 'GIGs',
+          position: 'left',
+        },
+        {
           to: 'blog', 
           label: 'MeetingNotes', 
           position: 'left'

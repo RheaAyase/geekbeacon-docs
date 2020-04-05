@@ -1,5 +1,5 @@
 module.exports = {
-  someSidebar: {
+  docs: {
     Intro: ['intro/welcome', 'intro/tools'],
     Community: [
       'community/announcements',
@@ -13,4 +13,10 @@ module.exports = {
       'demo'
     ]
   },
+  gigs: {
+    Intro: ['gigs/gigs_intro'],
+    Engineering: [
+        'gigs/engineering/engineering_intro'
+    ]
+  }
 };
